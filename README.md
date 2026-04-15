@@ -65,17 +65,6 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
   </a>
 </p>
 
-
+<br/>
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&color=2ECC71" alt="Dev Quote" />
-  
-  <br/><br/>
-  
-  <img src="https://progress-bar.dev/100/?title=PROFILE_READY&width=400&color=2ECC71" alt="Progress Bar" />
-  
-  <p style="color: #2ECC71; font-family: 'Courier New', Courier, monospace; font-size: 0.8em;">
-    01010011 01000001 01001100 01000101 01001101_SYSTEM_ONLINE
-  </p>
-</div>
