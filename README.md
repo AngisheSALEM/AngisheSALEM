@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://pin.it/xbojGaiAB" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
+  <img src="Gemini_Generated_Image_f36s8kf36s8kf36s.png" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
 
   <h1 style="font-family: Calibri, sans-serif;">Angishe Balagizi Salem</h1>
 
