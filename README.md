@@ -29,7 +29,7 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 
 ### 🛠 Ma Stack Technique
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h4 style="font-family: Calibri, sans-serif;">🌐 Développement Web</h4>
