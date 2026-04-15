@@ -1,13 +1,5 @@
 <div align="center">
-  <pre>
-  01010011 01000001 01001100 01000101 01001101
-   SSSSS   AAAAA  L      EEEEE  M   M
-  S     S A     A L      E      MM MM
-   SSSSS  AAAAAAA L      EEEE   M M M
-        S A     A L      E      M   M
-   SSSSS  A     A LLLLLL EEEEE  M   M
-  01010011 01000001 01001100 01000101 01001101
-  </pre>
+
 
   <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=80" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
 
