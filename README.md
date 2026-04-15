@@ -69,8 +69,3 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
-</div>
