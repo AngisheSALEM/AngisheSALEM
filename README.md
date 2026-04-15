@@ -51,7 +51,7 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 </table>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80" alt="Coding" width="45%" style="border-radius: 10px;"/>
+  <img src="Wallpaper programmer.jpg " alt="Coding" width="45%" style="border-radius: 10px;"/>
   <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=400&q=80" alt="AI Robot" width="45%" style="border-radius: 10px;"/>
 </div>
 
