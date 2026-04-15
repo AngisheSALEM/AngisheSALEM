@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCAmY3Q9cw/3o7TKSjP7XmXFp4CqY/giphy.gif" width="30"> À propos de moi
 
 <p style="font-family: Calibri, sans-serif; font-size: 1.1em;">
-Passionné par l'intersection entre le développement web et l'intelligence artificielle. J'ai déjà eu l'opportunité de concevoir et déployer des outils performants pour des organisations qui m'ont fait confiance, garantissant des solutions robustes et innovantes. 
+Passionné par le développement web et l'intelligence artificielle. J'ai déjà eu l'opportunité de concevoir et déployer des outils performants pour des organisations qui m'ont fait confiance, garantissant des solutions robustes et innovantes. 
 Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b>NLP</b> pour devenir un acteur clé de l'ingénierie IA.
 </p>
 
