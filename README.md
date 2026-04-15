@@ -66,6 +66,18 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 </p>
 
 
-
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&color=2ECC71" alt="Dev Quote" />
+  
+  <br/><br/>
+  
+  <pre style="background: #000; color: #2ECC71; border: 1px solid #2ECC71; padding: 15px; border-radius: 5px; text-align: left; font-family: 'Courier New', Courier, monospace;">
+> system_check --status=online
+> user_id: AngisheSALEM
+> environment: Linux_Arch_x64
+> status: READY_FOR_DEPLOYMENT
+> initializing_next_project... [COMPLETED]
+  </pre>
+</div>
