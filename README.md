@@ -22,7 +22,7 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 * ⚙️ **Environnement :** Amateur de puissance et de contrôle sous **Linux** (Arch, Pop!_OS).
 * 🎧 **Passion :** Audiophile et perfectionniste dans chaque ligne de code.
 
-  <img src="Gemini_Generated_Image_f36s8kf36s8kf36s.png" alt="Robot AI" width="75%" style="border-radius: 10px;"/>
+  <img src="Lego The Matrix.jpg" alt="Robot AI" width="75%" style="border-radius: 10px;"/>
 
 
 ---
