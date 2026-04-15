@@ -4,7 +4,7 @@
   <img src="1776263715342.jpg" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
 
   
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" color="green">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=const+role+%3D+%22Futur+Ing%C3%A9nieur+IA%22%3B;console.log(%22D%C3%A9veloppeur+Web+Full+Stack%22)%3B;import+%7B+Innovation+%7D+from+'Experience'%3B;while(learning)+%7B+code()%3B+%7D" alt="Typing SVG" />
   </a>
 </div>
