@@ -57,17 +57,6 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 
 ---
 
-### 📊 Statistiques de l'Ingénieur
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngisheSALEM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngisheSALEM&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngisheSALEM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="60%" />
-</div>
-
----
-
 ### 📩 Contact & Support
 
 <p align="left">
