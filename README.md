@@ -73,11 +73,9 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
   
   <br/><br/>
   
-  <pre style="background: #000; color: #2ECC71; border: 1px solid #2ECC71; padding: 15px; border-radius: 5px; text-align: left; font-family: 'Courier New', Courier, monospace;">
-> system_check --status=online
-> user_id: AngisheSALEM
-> environment: Linux_Arch_x64
-> status: READY_FOR_DEPLOYMENT
-> initializing_next_project... [COMPLETED]
-  </pre>
+  <img src="https://progress-bar.dev/100/?title=PROFILE_READY&width=400&color=2ECC71" alt="Progress Bar" />
+  
+  <p style="color: #2ECC71; font-family: 'Courier New', Courier, monospace; font-size: 0.8em;">
+    01010011 01000001 01001100 01000101 01001101_SYSTEM_ONLINE
+  </p>
 </div>
