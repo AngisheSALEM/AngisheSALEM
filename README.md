@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="Gemini_Generated_Image_f36s8kf36s8kf36s.png" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
+  <img src="1776263715342.jpg" alt="Robot AI" width="100%" style="border-radius: 10px;"/>
 
   
   <a href="https://git.io/typing-svg">
