@@ -68,3 +68,4 @@ Actuellement, je concentre mon expertise sur le <b>Machine Learning</b> et le <b
 <br/>
 <br/>
 
+![](./profile-summary-card-output/dark/0-profile-details.svg)
