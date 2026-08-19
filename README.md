@@ -58,7 +58,6 @@ Fort d'une expérience concrète dans la conception et le déploiement de soluti
 
 <div align="center">
   <img src="Wallpaper programmer.jpg" alt="Coding" width="40%" style="border-radius: 10px; margin-right: 2%;"/>
-  <img src="https://storage.googleapis.com/cms-storage-bucket/70760ba05b18c62f7c03.png" alt="Flutter Framework" width="30%" style="border-radius: 10px; margin-right: 2%;"/>
   <img src="télécharger%20(2).jpg" alt="AI Robot" width="23%" style="border-radius: 10px;"/>
 </div>
 
