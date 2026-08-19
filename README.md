@@ -56,10 +56,13 @@ Fort d'une expérience concrète dans la conception et le déploiement de soluti
   </tr>
 </table>
 
-<div align="center">
-  <img src="Wallpaper programmer.jpg" alt="Coding" width="40%" style="border-radius: 10px; margin-right: 2%;"/>
+ <div align="center" style="display:inline-block">
+
+  <img src="Wallpaper programmer.jpg " alt="Coding" width="55%" style="border-radius: 10px;"/>
+
   <img src="télécharger%20(2).jpg" alt="AI Robot" width="23%" style="border-radius: 10px;"/>
-</div>
+
+</div> 
 
 ---
 
